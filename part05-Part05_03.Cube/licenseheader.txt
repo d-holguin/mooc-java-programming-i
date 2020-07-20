@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}
+${licensePrefix}This program is${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>

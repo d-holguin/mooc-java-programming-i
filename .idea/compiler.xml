@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Part01_08.Greeting" />
+        <module name="Part01_19.AdditionFormula" />
+        <module name="Part04_17.Items" />
+        <module name="Part04_22.Cubes" />
+        <module name="Part02_21.InAHoleInTheGround" />
+        <module name="Part04_27.IsItInTheFile" />
+        <module name="Part03_31.NameOfTheOldest" />
+        <module name="Part01_24.SpeedingTicket" />
+        <module name="Part04_16.PaymentCard" />
+        <module name="Part01_02.AdaLovelace" />
+        <module name="Part02_19.Factorial" />
+        <module name="Part02_08.NumberOfNumbers" />
+        <module name="Part02_16.FromWhereToWhere" />
+        <module name="Part05_01.OneMinute" />
+        <module name="Part04_29.RecordsFromAFile" />
+        <module name="Part03_13.AverageOfAList" />
+        <module name="Part02_25.Division" />
+        <module name="Part02_03.AbsoluteValue" />
+        <module name="Part02_33.StarSign" />
+        <module name="Part02_26.DivisibleByThree" />
+        <module name="Part04_28.NumbersFromAFile" />
+        <module name="Part02_09.NumberOfNegativeNumbers" />
+        <module name="Part01_27.Ancient" />
+        <module name="Part01_14.BooleanInput" />
+        <module name="Part02_01.Squared" />
+        <module name="Part01_13.DoubleInput" />
+        <module name="Part02_10.SumOfNumbers" />
+        <module name="Part04_26.GuestListFromAFile" />
+        <module name="PArt03_28.FirstWords" />
+        <module name="Part02_34.AdvancedAstrology" />
+        <module name="Part02_17.SumOfASequence" />
+        <module name="Part01_21.AverageOfTwoNumbers" />
+        <module name="Part03_24.IsItTrue" />
+        <module name="Part01_28.Positivity" />
+        <module name="Part02_14.Counting" />
+        <module name="Part03_18.Swap" />
+        <module name="Part04_18.PersonalInformation" />
+        <module name="Part04_01.YourFirstAccount" />
+        <module name="Part05_04.Fitbyte" />
+        <module name="Part05_07.NullPointerException" />
+        <module name="Part03_05.LastInList" />
+        <module name="Part05_14.Books" />
+        <module name="Part02_32.Averaging" />
+        <module name="Part01_09.Conversation" />
+        <module name="Part03_07.RememberTheseNumbers" />
+        <module name="Part02_04.ComparingNumbers" />
+        <module name="Part01_11.VariousVariables" />
+        <module name="Part01_25.CheckYourIndentation" />
+        <module name="Part01_17.SumOfTwoNumbers" />
+        <module name="Part01_05.Message" />
+        <module name="Part03_29.LastWords" />
+        <module name="Part01_37.GiftTax" />
+        <module name="Part03_10.IndexOf" />
+        <module name="Part01_06.HiAdaLovelace" />
+        <module name="Part02_06.AreWeThereYet" />
+        <module name="Part01_15.DifferentTypesOfInput" />
+        <module name="Part03_03.IndexOutOfBoundsException" />
+        <module name="Part02_24.FromParameterToOne" />
+        <module name="Part02_12.AverageOfNumbers" />
+        <module name="Part01_26.Orwell" />
+        <module name="Part03_02.SecondPlusThird" />
+        <module name="Part01_30.LargerThanOrEqualTo" />
+        <module name="Part04_02.YourFirstBankTransfer" />
+        <module name="Part01_33.Password" />
+        <module name="Part02_28.Word" />
+        <module name="Part01_04.Dinosaur" />
+        <module name="Part01_12.IntegerInput" />
+        <module name="Part01_10.Story" />
+        <module name="Part01_23.SimpleCalculator" />
+        <module name="Part04_14.Multiplier" />
+        <module name="Part04_12.Gauge" />
+        <module name="Part02_27.NumberUno" />
+        <module name="Part04_15.Statistics" />
+        <module name="Part05_09.HealthStation" />
+        <module name="Part04_04.Room" />
+        <module name="Part04_23.CreatingANewFile" />
+        <module name="Part01_35.CheckingTheAge" />
+        <module name="Part01_07.MessageThreeTimes" />
+        <module name="Part02_20.RepeatingBreakingAndRemembering" />
+        <module name="Part02_18.SumOfASequenceTheSequel" />
+        <module name="Part02_23.FromOneToParameter" />
+        <module name="Part04_06.Door" />
+        <module name="Part02_02.SquareRootOfSum" />
+        <module name="Part03_09.GreatestInList" />
+        <module name="Part01_22.AverageOfThreeNumbers" />
+        <module name="Part04_31.SportStatistics" />
+        <module name="Part02_29.Summation" />
+        <module name="Part05_13.IdenticalTwins" />
+        <module name="Part03_20.SumOfArray" />
+        <module name="Part05_03.Cube" />
+        <module name="Part01_16.SecondsInADay" />
+        <module name="Part03_23.PrintThrice" />
+        <module name="Part02_05.CarryOn" />
+        <module name="Part01_20.MultiplicationFormula" />
+        <module name="Part05_11.ComparingApartments" />
+        <module name="Part04_08.DecreasingCounter" />
+        <module name="Part01_31.gradesAndPoints" />
+        <module name="Part02_13.AverageOfPositiveNumbers" />
+        <module name="Part04_24.PrintingAFile" />
+        <module name="Part04_07.Product" />
+        <module name="Part05_02.Book" />
+        <module name="Part01_34.Same" />
+        <module name="Part03_21.PrintNeatly" />
+        <module name="Part03_14.OnTheList" />
+        <module name="Part04_21.NumberOfStrings" />
+        <module name="Part05_06.OverloadedCounter" />
+        <module name="Part01_18.SumOfThreeNumbers" />
+        <module name="Part05_17.Money" />
+        <module name="Part03_11.IndexOfSmallest" />
+        <module name="Part03_01.ThirdElement" />
+        <module name="Part03_22.PrintInStars" />
+        <module name="Part03_15.PrintInRange" />
+        <module name="Part04_11.Film" />
+        <module name="Part03_06.FirstAndLast" />
+        <module name="Part04_13.Agent" />
+        <module name="Part01_32.OddOrEven" />
+        <module name="Part04_03.DogAttributes" />
+        <module name="Part03_27.AVClub" />
+        <module name="Part03_19.IndexWasNotFound" />
+        <module name="Part03_32.PersonalDetails" />
+        <module name="Part02_15.CountingToHundred" />
+        <module name="Part02_07.OnlyPositives" />
+        <module name="Part04_25.PrintingASpecifiedFile" />
+        <module name="Part02_11.NumberAndSumOfNumbers" />
+        <module name="Part01_36.LeapYear" />
+        <module name="Part01_03.OnceUponATime" />
+        <module name="Part05_15.Archive" />
+        <module name="Part03_08.OnlyTheseNumbers" />
+        <module name="Part04_20.Books" />
+        <module name="Part03_04.ListSize" />
+        <module name="Part04_05.Whistle" />
+        <module name="Part03_16.Sum" />
+        <module name="Part02_31.Greatest" />
+        <module name="Part02_30.Smallest" />
+        <module name="Part05_10.CardPayments" />
+        <module name="Part04_30.StoringRecords" />
+        <module name="Part01_29.Adulthood" />
+        <module name="Part02_22.Reprint" />
+        <module name="Part03_26.LineByLine" />
+        <module name="Part03_25.Login" />
+        <module name="Part05_08.BiggestPetShop" />
+        <module name="Part03_12.SumOfAList" />
+        <module name="Part04_10.Song" />
+        <module name="Part03_30.AgeOfTheOldest" />
+        <module name="Part05_16.DatingApp" />
+        <module name="Part04_19.TelevisionPrograms" />
+        <module name="Part03_17.RemoveLast" />
+        <module name="Part05_12.Song" />
+        <module name="Part04_09.Debt" />
+        <module name="Part05_05.ConstructorOverload" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Part01_02.AdaLovelace" target="1.8" />
+      <module name="Part01_03.OnceUponATime" target="1.8" />
+      <module name="Part01_04.Dinosaur" target="1.8" />
+      <module name="Part01_05.Message" target="1.8" />
+      <module name="Part01_06.HiAdaLovelace" target="1.8" />
+      <module name="Part01_07.MessageThreeTimes" target="1.8" />
+      <module name="Part01_08.Greeting" target="1.8" />
+      <module name="Part01_09.Conversation" target="1.8" />
+      <module name="Part01_10.Story" target="1.8" />
+      <module name="Part01_11.VariousVariables" target="1.8" />
+      <module name="Part01_12.IntegerInput" target="1.8" />
+      <module name="Part01_13.DoubleInput" target="1.8" />
+      <module name="Part01_14.BooleanInput" target="1.8" />
+      <module name="Part01_15.DifferentTypesOfInput" target="1.8" />
+      <module name="Part01_16.SecondsInADay" target="1.8" />
+      <module name="Part01_17.SumOfTwoNumbers" target="1.8" />
+      <module name="Part01_18.SumOfThreeNumbers" target="1.8" />
+      <module name="Part01_19.AdditionFormula" target="1.8" />
+      <module name="Part01_20.MultiplicationFormula" target="1.8" />
+      <module name="Part01_21.AverageOfTwoNumbers" target="1.8" />
+      <module name="Part01_22.AverageOfThreeNumbers" target="1.8" />
+      <module name="Part01_23.SimpleCalculator" target="1.8" />
+      <module name="Part01_24.SpeedingTicket" target="1.8" />
+      <module name="Part01_25.CheckYourIndentation" target="1.8" />
+      <module name="Part01_26.Orwell" target="1.8" />
+      <module name="Part01_27.Ancient" target="1.8" />
+      <module name="Part01_28.Positivity" target="1.8" />
+      <module name="Part01_29.Adulthood" target="1.8" />
+      <module name="Part01_30.LargerThanOrEqualTo" target="1.8" />
+      <module name="Part01_31.gradesAndPoints" target="1.8" />
+      <module name="Part01_32.OddOrEven" target="1.8" />
+      <module name="Part01_33.Password" target="1.8" />
+      <module name="Part01_34.Same" target="1.8" />
+      <module name="Part01_35.CheckingTheAge" target="1.8" />
+      <module name="Part01_36.LeapYear" target="1.8" />
+      <module name="Part01_37.GiftTax" target="1.8" />
+      <module name="Part02_01.Squared" target="1.8" />
+      <module name="Part02_02.SquareRootOfSum" target="1.8" />
+      <module name="Part02_03.AbsoluteValue" target="1.8" />
+      <module name="Part02_04.ComparingNumbers" target="1.8" />
+      <module name="Part02_05.CarryOn" target="1.8" />
+      <module name="Part02_06.AreWeThereYet" target="1.8" />
+      <module name="Part02_07.OnlyPositives" target="1.8" />
+      <module name="Part02_08.NumberOfNumbers" target="1.8" />
+      <module name="Part02_09.NumberOfNegativeNumbers" target="1.8" />
+      <module name="Part02_10.SumOfNumbers" target="1.8" />
+      <module name="Part02_11.NumberAndSumOfNumbers" target="1.8" />
+      <module name="Part02_12.AverageOfNumbers" target="1.8" />
+      <module name="Part02_13.AverageOfPositiveNumbers" target="1.8" />
+      <module name="Part02_14.Counting" target="1.8" />
+      <module name="Part02_15.CountingToHundred" target="1.8" />
+      <module name="Part02_16.FromWhereToWhere" target="1.8" />
+      <module name="Part02_17.SumOfASequence" target="1.8" />
+      <module name="Part02_18.SumOfASequenceTheSequel" target="1.8" />
+      <module name="Part02_19.Factorial" target="1.8" />
+      <module name="Part02_20.RepeatingBreakingAndRemembering" target="1.8" />
+      <module name="Part02_21.InAHoleInTheGround" target="1.8" />
+      <module name="Part02_22.Reprint" target="1.8" />
+      <module name="Part02_23.FromOneToParameter" target="1.8" />
+      <module name="Part02_24.FromParameterToOne" target="1.8" />
+      <module name="Part02_25.Division" target="1.8" />
+      <module name="Part02_26.DivisibleByThree" target="1.8" />
+      <module name="Part02_27.NumberUno" target="1.8" />
+      <module name="Part02_28.Word" target="1.8" />
+      <module name="Part02_29.Summation" target="1.8" />
+      <module name="Part02_30.Smallest" target="1.8" />
+      <module name="Part02_31.Greatest" target="1.8" />
+      <module name="Part02_32.Averaging" target="1.8" />
+      <module name="Part02_33.StarSign" target="1.8" />
+      <module name="Part02_34.AdvancedAstrology" target="1.8" />
+      <module name="Part03_01.ThirdElement" target="1.8" />
+      <module name="Part03_02.SecondPlusThird" target="1.8" />
+      <module name="Part03_03.IndexOutOfBoundsException" target="1.8" />
+      <module name="Part03_04.ListSize" target="1.8" />
+      <module name="Part03_05.LastInList" target="1.8" />
+      <module name="Part03_06.FirstAndLast" target="1.8" />
+      <module name="Part03_07.RememberTheseNumbers" target="1.8" />
+      <module name="Part03_08.OnlyTheseNumbers" target="1.8" />
+      <module name="Part03_09.GreatestInList" target="1.8" />
+      <module name="Part03_10.IndexOf" target="1.8" />
+      <module name="Part03_11.IndexOfSmallest" target="1.8" />
+      <module name="Part03_12.SumOfAList" target="1.8" />
+      <module name="Part03_13.AverageOfAList" target="1.8" />
+      <module name="Part03_14.OnTheList" target="1.8" />
+      <module name="Part03_15.PrintInRange" target="1.8" />
+      <module name="Part03_16.Sum" target="1.8" />
+      <module name="Part03_17.RemoveLast" target="1.8" />
+      <module name="Part03_18.Swap" target="1.8" />
+      <module name="Part03_19.IndexWasNotFound" target="1.8" />
+      <module name="Part03_20.SumOfArray" target="1.8" />
+      <module name="Part03_21.PrintNeatly" target="1.8" />
+      <module name="Part03_22.PrintInStars" target="1.8" />
+      <module name="Part03_23.PrintThrice" target="1.8" />
+      <module name="Part03_24.IsItTrue" target="1.8" />
+      <module name="Part03_25.Login" target="1.8" />
+      <module name="Part03_26.LineByLine" target="1.8" />
+      <module name="Part03_27.AVClub" target="1.8" />
+      <module name="PArt03_28.FirstWords" target="1.8" />
+      <module name="Part03_29.LastWords" target="1.8" />
+      <module name="Part03_30.AgeOfTheOldest" target="1.8" />
+      <module name="Part03_31.NameOfTheOldest" target="1.8" />
+      <module name="Part03_32.PersonalDetails" target="1.8" />
+      <module name="Part04_01.YourFirstAccount" target="1.8" />
+      <module name="Part04_02.YourFirstBankTransfer" target="1.8" />
+      <module name="Part04_03.DogAttributes" target="1.8" />
+      <module name="Part04_04.Room" target="1.8" />
+      <module name="Part04_05.Whistle" target="1.8" />
+      <module name="Part04_06.Door" target="1.8" />
+      <module name="Part04_07.Product" target="1.8" />
+      <module name="Part04_08.DecreasingCounter" target="1.8" />
+      <module name="Part04_09.Debt" target="1.8" />
+      <module name="Part04_10.Song" target="1.8" />
+      <module name="Part04_11.Film" target="1.8" />
+      <module name="Part04_12.Gauge" target="1.8" />
+      <module name="Part04_13.Agent" target="1.8" />
+      <module name="Part04_14.Multiplier" target="1.8" />
+      <module name="Part04_15.Statistics" target="1.8" />
+      <module name="Part04_16.PaymentCard" target="1.8" />
+      <module name="Part04_17.Items" target="1.8" />
+      <module name="Part04_18.PersonalInformation" target="1.8" />
+      <module name="Part04_19.TelevisionPrograms" target="1.8" />
+      <module name="Part04_20.Books" target="1.8" />
+      <module name="Part04_21.NumberOfStrings" target="1.8" />
+      <module name="Part04_22.Cubes" target="1.8" />
+      <module name="Part04_23.CreatingANewFile" target="1.8" />
+      <module name="Part04_24.PrintingAFile" target="1.8" />
+      <module name="Part04_25.PrintingASpecifiedFile" target="1.8" />
+      <module name="Part04_26.GuestListFromAFile" target="1.8" />
+      <module name="Part04_27.IsItInTheFile" target="1.8" />
+      <module name="Part04_28.NumbersFromAFile" target="1.8" />
+      <module name="Part04_29.RecordsFromAFile" target="1.8" />
+      <module name="Part04_30.StoringRecords" target="1.8" />
+      <module name="Part04_31.SportStatistics" target="1.8" />
+      <module name="Part05_01.OneMinute" target="1.8" />
+      <module name="Part05_02.Book" target="1.8" />
+      <module name="Part05_03.Cube" target="1.8" />
+      <module name="Part05_04.Fitbyte" target="1.8" />
+      <module name="Part05_05.ConstructorOverload" target="1.8" />
+      <module name="Part05_06.OverloadedCounter" target="1.8" />
+      <module name="Part05_07.NullPointerException" target="1.8" />
+      <module name="Part05_08.BiggestPetShop" target="1.8" />
+      <module name="Part05_09.HealthStation" target="1.8" />
+      <module name="Part05_10.CardPayments" target="1.8" />
+      <module name="Part05_11.ComparingApartments" target="1.8" />
+      <module name="Part05_12.Song" target="1.8" />
+      <module name="Part05_13.IdenticalTwins" target="1.8" />
+      <module name="Part05_14.Books" target="1.8" />
+      <module name="Part05_15.Archive" target="1.8" />
+      <module name="Part05_16.DatingApp" target="1.8" />
+      <module name="Part05_17.Money" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
