@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
 
+
+
 public class Program {
 
     public static void main(String[] args) {
@@ -10,5 +12,11 @@ public class Program {
 
         UserInterface ui = new UserInterface(register, scanner);
         ui.start();
+
+//     GradeRegister register = new GradeRegister();
+//register.addGradeBasedOnPoints(93);
+//register.addGradeBasedOnPoints(92);
+//
+//System.out.println(register.averageOfPoints());
     }
 }
