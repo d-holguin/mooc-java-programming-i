@@ -44,11 +44,50 @@ public class Searching {
     }
 
     public static int linearSearch(ArrayList<Book> books, int searchedId) {
-        return -1;
+        int index = 0;
+        int foundIndex = -1;
+
+        for (Book e : books) {
+
+            if (e.getId() == searchedId) {
+
+                foundIndex = index;
+            }
+
+            index++;
+        }
+
+        return foundIndex;
     }
+    // use help from here https://github.com/TheAlgorithms/Java/blob/master/Searches/BinarySearch.java
 
     public static int binarySearch(ArrayList<Book> books, long searchedId) {
-        return -1;
+        //indexes
+
+        int first = 0;
+        int last = books.size() - 1;
+
+        int foundIndex = -1;
+
+//break statement is very important otherqise it just keeps looping infinitely 
+//or you could just use return. I find 1 return statment a bit easier to read 
+        while (first <= last) {
+
+            int middle = (first + last) / 2;
+
+            if (books.get(middle).getId() == searchedId) {
+
+                foundIndex = middle;
+                break;
+            } else if (books.get(middle).getId() < searchedId) {
+                first = middle + 1;
+            } else if (books.get(middle).getId() > searchedId) {
+                last = middle - 1;
+            }
+
+        }
+
+        return foundIndex;
+
     }
 }
-
