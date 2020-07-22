@@ -14,7 +14,7 @@ public class GuestListFromAFile {
         ArrayList<String> list = new ArrayList<>();
         // implement reading the file here.
         
-        System.out.println("Name of the file: ");
+       // System.out.println("Name of the file: ");
         
            try ( Scanner fileScanner = new Scanner(Paths.get(file))) {
 
