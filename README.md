@@ -6,5 +6,5 @@ Should only use for education purposes and comparison with your own solutions. S
 Feel free to ask questions or post feedback via Issues tab.
 
 
-Part 2 will be uploaded soon. 
+Part 2 will be uploaded soon. I have a couple sections done. I want to upload it all at once. Put an issue if anyone needs to see some eariler.
  
