@@ -43,7 +43,7 @@ public class Exercise {
 
     public void setCompleted(boolean completed) {
 
-        completed = completed;
+        this.completed = completed;
     }
 
     public boolean isCompleted() {
